@@ -23,9 +23,12 @@
 			}
 		});
 
-		$(".dropdown-button").click(function(){
-			var activates = $(this).data("dropdown1");
-			//$("#"+activates+" ")
+		$(".dropdown-content li a").click(function(){
+			var time = $(this).html();
+			console.log(time);
+			var name = $(this).parent().parent().attr('id');
+			console.log(name);
+			$('*[data-activates="' + name + '"]').html(time);
 		});
 	}
 })();

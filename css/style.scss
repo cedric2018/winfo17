@@ -2,6 +2,10 @@ body, html {
 	height: 100%;
 }
 
+.nav-wrapper {
+	padding-left: 20px;
+}
+
 .master_container {
 	margin-bottom: 0px;
 }
@@ -30,4 +34,12 @@ body, html {
 		height: 100%;
 		background-color: #eee;
 	}
+}
+
+.room_number {
+	float: left;
+}
+
+.room_time {
+	float: right;
 }
