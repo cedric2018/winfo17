@@ -33,6 +33,8 @@ body, html {
 	.map_container {
 		height: 100%;
 		background-color: #eee;
+		background: url("../images/map.png") no-repeat right;
+		background-size: cover;
 	}
 }
 

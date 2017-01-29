@@ -21,7 +21,9 @@ body, html {
         margin-top: 10px; }
   .master_container .map_container {
     height: 100%;
-    background-color: #eee; }
+    background-color: #eee;
+    background: url("../images/map.png") no-repeat right;
+    background-size: cover; }
 
 .room_number {
   float: left; }
