@@ -1,5 +1,32 @@
-body {
-  margin: 0px;
-  color: red; }
+body, html {
+  height: 100%; }
+
+.nav-wrapper {
+  padding-left: 20px; }
+
+.master_container {
+  margin-bottom: 0px; }
+
+.master_container {
+  height: calc(100vh - 64px); }
+  .master_container .filter_container {
+    height: 100%;
+    background-color: white;
+    padding: 30px; }
+    .master_container .filter_container .filters {
+      padding-bottom: 30px;
+      margin-bottom: 30px;
+      border-bottom: solid lightgrey 2px; }
+      .master_container .filter_container .filters .switch {
+        margin-top: 10px; }
+  .master_container .map_container {
+    height: 100%;
+    background-color: #eee; }
+
+.room_number {
+  float: left; }
+
+.room_time {
+  float: right; }
 
 /*# sourceMappingURL=style.css.map */
