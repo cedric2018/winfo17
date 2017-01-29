@@ -12,7 +12,8 @@ body, html {
   .master_container .filter_container {
     height: 100%;
     background-color: white;
-    padding: 30px; }
+    padding: 30px;
+    overflow: scroll; }
     .master_container .filter_container .filters {
       padding-bottom: 30px;
       margin-bottom: 30px;

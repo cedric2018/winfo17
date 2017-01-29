@@ -13,15 +13,18 @@ body, html {
 .master_container {
 	height: calc(100vh - 64px);
 
+
 	.filter_container {
 		height: 100%;
 		background-color: white;
 		padding: 30px;
+		overflow: scroll;
 
 		.filters {
 			padding-bottom: 30px;
 			margin-bottom: 30px;
 			border-bottom: solid lightgrey 2px;
+
 
 			.switch {
 				margin-top: 10px;
