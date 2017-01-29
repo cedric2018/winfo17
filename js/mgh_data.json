@@ -1,0 +1,2522 @@
+[
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 30,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 44,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 58,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 74,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 82,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 85,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 97,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 228,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 231,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 234,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 238,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 241,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 242,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 248,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 251,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 253,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 254,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 255,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 271,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 278,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 282,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 284,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 286,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 287,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 288,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 289,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 291,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 295,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 389,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "8:30",
+    "TimeEnd": "9:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "9:30",
+    "TimeEnd": "10:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "10:30",
+    "TimeEnd": "11:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "11:30",
+    "TimeEnd": "12:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "12:30",
+    "TimeEnd": "1:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "1:30",
+    "TimeEnd": "2:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "2:30",
+    "TimeEnd": "3:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "3:30",
+    "TimeEnd": "4:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "4:30",
+    "TimeEnd": "5:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "5:30",
+    "TimeEnd": "6:20",
+    "Status": "Closed"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "6:30",
+    "TimeEnd": "7:20",
+    "Status": "Open"
+  },
+  {
+    "Building": "MGH",
+    "Room": 430,
+    "TimeStart": "7:30",
+    "TimeEnd": "8:20",
+    "Status": "Closed"
+  }
+]
